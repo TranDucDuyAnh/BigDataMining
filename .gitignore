@@ -1,0 +1,13 @@
+# MinIO data volumes
+minio_data/
+data/
+
+# Jupyter cache
+./notebooks/ipynb_checkpoints/
+
+# Environment/secret files
+.env
+*.env
+
+# Docker override files
+docker-compose.override.yml
