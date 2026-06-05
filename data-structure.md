@@ -2,7 +2,6 @@
 
 ## Bucket
 
-\```
 finance
 ├── raw/
 	├── news/
@@ -15,7 +14,6 @@ finance
 		│   └── *.pdf
 		└── (công ty khác)/
 			└── *.pdf
-\```
 
 ## Dữ liệu
 - Tổng dung lượng: 246 MB
